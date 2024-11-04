@@ -70,8 +70,6 @@ nav h1 {
 /* hero styles end */
 .hero-container {
   margin-top: 5rem;
-  position: relative;
-  z-index: 1;
 }
 
 .hero-top-content h3 {
@@ -87,7 +85,7 @@ nav h1 {
 
 .hero-top-details {
   display: flex;
-  align-items: flex-start; /* Aligns the image at the top */
+  align-items:center; /* Aligns the image at the top */
   justify-content: center; /* Center the profile picture */
 }
 
@@ -232,6 +230,27 @@ font-weight: 600;
 .contacts-container {
   margin-top: 5rem;
   text-align: center;
+}
+.projects-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center; /* Centers items horizontally */
+  text-align: center;
+  padding: 20px;
+}
+.visit-website-button {
+  margin-top: 20px; /* Adds space above the button */
+  padding: 10px 20px;
+  font-size: 16px;
+  background-color: #2C1250; /* Example color */
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.visit-website-button:hover {
+  background-color: #45a049; /* Darker shade on hover */
 }
 
 /* footer styles */
