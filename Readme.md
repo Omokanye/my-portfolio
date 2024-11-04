@@ -3,7 +3,7 @@
 Welcome to my portfolio! This page showcases the projects, skills, and experience I’ve accumulated as I build my career in tech.
 
 ## 🖥️ About Me
-I'm a passionate web developer with a strong background in  HTML, CSS, JavaScript, etc.. I’m currently working on projects that involve front-end development, JavaScript frameworks and Python.
+I'm a passionate web developer with a strong background in  HTML, CSS and JavaScript. I’m currently working on projects that involve front-end development, JavaScript frameworks and Python.
 
 ## 🚀 Projects
 
