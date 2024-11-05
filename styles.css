@@ -113,8 +113,6 @@ nav h1 {
   position: relative;
   z-index: 0;
 }
-
-}
 .text-title{
   font-size: 17px;
   font-weight: 400;
@@ -129,7 +127,7 @@ nav h1 {
 .special-color{
   color: #7127BA;
 }
-.hero-desc{
+/*.hero-desc{
 
 }
 
@@ -285,7 +283,5 @@ footer {
   .hero-bottom-details{
     text-align: center;
   }
-  .text-sub-title{
-    font-size: 50px;
-  }
-}
+  .text-sub-title {
+    font-size: 50px; }}}
